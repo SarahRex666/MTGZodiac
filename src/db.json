@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "zodiac": "aries",
+      "card": "Soul Warden",
+      "bio": "You are Soul Warden because you are kind, sympathetic, and seem to stick around way too long. ",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=600&type=card"
+    },
+    {
+      "id": "2",
+      "zodiac": "taurus",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "3",
+      "zodiac": "gemini",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "4",
+      "zodiac": "cancer",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "5",
+      "zodiac": "leo",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "6",
+      "zodiac": "virgo",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "7",
+      "zodiac": "libra",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "8",
+      "zodiac": "scorpio",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "9",
+      "zodiac": "sagittarius",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "10",
+      "zodiac": "capricorn",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "11",
+      "zodiac": "aquarius",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    },
+    {
+      "id": "12",
+      "zodiac": "pisces",
+      "card": 36,
+      "bio": "Dunlap Hubbard",
+      "cardUrl": "male"
+    }
+  ]
+}
