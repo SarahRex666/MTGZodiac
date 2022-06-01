@@ -25,7 +25,7 @@ function App() {
           name="searchbar"
           onChange={inputHandler}
         />
-        <input type="submit" value="Submit" />
+        <input type="date" value="Submit" />
       </form>
     </div>
   );
