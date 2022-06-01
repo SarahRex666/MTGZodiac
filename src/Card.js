@@ -112,7 +112,7 @@ function Card({ search, setSearch }) {
         "You are Soul Warden because you are kind, sympathetic, and seem to stick around way too long. "
       );
       setZodiacImg(
-        "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=600&type=card"
+        "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=547348&type=card"
       );
     }
     if (search.toLowerCase() === "sagittarius") {
