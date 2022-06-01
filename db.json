@@ -5,56 +5,56 @@
       "zodiac": "aries",
       "card": "Soul Warden",
       "bio": "You are Soul Warden because you are kind, sympathetic, and seem to stick around way too long. ",
-      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=600&type=card"
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=547348&type=card"
     },
     {
       "id": "2",
-      "zodiac": "taurus",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Taurus",
+      "card": "Ancestral Recall",
+      "bio": "You are Ancestral Recall because you can never have TOO many cards, am I right? ",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=413544&type=card"
     },
     {
       "id": "3",
-      "zodiac": "gemini",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Gemini",
+      "card": "Splinter Twin",
+      "bio": "You are Splinter Twin because twins? Get it? You also like to win FAST so you can go talk shit outside with the smokers. ",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=397816&type=card"
     },
     {
       "id": "4",
-      "zodiac": "cancer",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Cancer",
+      "card": "Force of Will",
+      "bio": "You are Force of Will because when you say no, you mean NO. ",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3107&type=card"
     },
     {
       "id": "5",
-      "zodiac": "leo",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Leo",
+      "card": "Black Lotus",
+      "bio": "You are a Black Lotus because you're the start of the fucking show, ain't you?",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=600&type=card"
     },
     {
       "id": "6",
-      "zodiac": "virgo",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Virgo",
+      "card": "Rule of Law",
+      "bio": "You are Rule of Law because rules are rules and if you don't follow them I will murder you.",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466789&type=card"
     },
     {
       "id": "7",
-      "zodiac": "libra",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Libra",
+      "card": "Balance",
+      "bio": "You are Balance because you are kind and fair. ",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=413544&type=card"
     },
     {
       "id": "8",
       "zodiac": "scorpio",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "card": "Thoughtseize",
+      "bio": "You are Thoughtseize because you came to this tournament to watch them suffer.",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373632&type=card"
     },
     {
       "id": "9",
@@ -65,24 +65,24 @@
     },
     {
       "id": "10",
-      "zodiac": "capricorn",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Capricorn",
+      "card": "Primeval Titan",
+      "bio": "You are Primeval Titan because you are a relentlessly ambitious Earth sign. You play for the endgame, and you play to fucking win.",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=512331&type=card"
     },
     {
       "id": "11",
-      "zodiac": "aquarius",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Aquarius",
+      "card": "Library of Alexandria",
+      "bio": "You are Library of Alexandria because you are here to be the smartest motherfucker in the room. ",
+      "cardUrl": "https://static.cardkingdom.com/images/magic-the-gathering/arabian-nights/library-of-alexandria-55673.jpg"
     },
     {
       "id": "12",
-      "zodiac": "pisces",
-      "card": 36,
-      "bio": "Dunlap Hubbard",
-      "cardUrl": "male"
+      "zodiac": "Pisces",
+      "card": "Phyrexian Unlife",
+      "bio": "You are Phyrexian Unlife because if they dare try to kill you, you are sure going to make them dance for it. ",
+      "cardUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218058&type=card"
     }
   ]
 }
